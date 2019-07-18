@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My New Blog. </title>
-    <link>http://example.org/categories/</link>
+    <link>http://sunhats.github.io/categories/</link>
     <description>Recent content in Categories on My New Blog. </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>(c) 2015 yourname.</copyright>
     <lastBuildDate>Thu, 24 Aug 2017 20:01:30 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://sunhats.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>blog</title>
-      <link>http://example.org/categories/blog/</link>
+      <link>http://sunhats.github.io/categories/blog/</link>
       <pubDate>Thu, 24 Aug 2017 20:01:30 +0000</pubDate>
       
-      <guid>http://example.org/categories/blog/</guid>
+      <guid>http://sunhats.github.io/categories/blog/</guid>
       <description></description>
     </item>
     
