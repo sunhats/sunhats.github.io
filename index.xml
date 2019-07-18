@@ -1,34 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://sunhats.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>My New Blog. </title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Blog. </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>(c) 2015 yourname.</copyright>
     <lastBuildDate>Tue, 16 Jul 2019 21:03:09 +0800</lastBuildDate>
     
-	<atom:link href="http://sunhats.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First</title>
-      <link>http://sunhats.github.io/post/first/</link>
+      <link>http://example.org/post/first/</link>
       <pubDate>Tue, 16 Jul 2019 21:03:09 +0800</pubDate>
       
-      <guid>http://sunhats.github.io/post/first/</guid>
+      <guid>http://example.org/post/first/</guid>
       <description> hello hugo this is my first log
+this is a test for local sever.
  aaa bbb ccc  </description>
     </item>
     
     <item>
       <title>第一篇博客，写写自己的想法</title>
-      <link>http://sunhats.github.io/post/my_first_blog/</link>
+      <link>http://example.org/post/my_first_blog/</link>
       <pubDate>Thu, 24 Aug 2017 20:01:30 +0000</pubDate>
       
-      <guid>http://sunhats.github.io/post/my_first_blog/</guid>
-      <description>layout: post categories: blog description: 这是第一篇博客，记录一下自己的想法，计划一下以后的任务。
-初衷 2017年8月22日，我在知乎乱逛，看到了这么一个问题其中的一个回答：「作为一个程序员，你是如何在工作以后找到女朋友的？」，鬼使神差的打开了答主的主页，发现了他的博客。基本浏览了一遍后，满脑子都是羡慕，觉得那就是自己理想中的生活。又回想起自己的懒散堕落的生活，感叹人与人之间的差距真的会比人和猪之间的差距还大，满脑子的羡慕变为羞愧，以这几年的学习生活状态，我还不配拥有这样的生活。继而萌生了写博客的想法，希望能借此督促自己，鼓励自己。
+      <guid>http://example.org/post/my_first_blog/</guid>
+      <description>初衷 2017年8月22日，我在知乎乱逛，看到了这么一个问题其中的一个回答：「作为一个程序员，你是如何在工作以后找到女朋友的？」，鬼使神差的打开了答主的主页，发现了他的博客。基本浏览了一遍后，满脑子都是羡慕，觉得那就是自己理想中的生活。又回想起自己的懒散堕落的生活，感叹人与人之间的差距真的会比人和猪之间的差距还大，满脑子的羡慕变为羞愧，以这几年的学习生活状态，我还不配拥有这样的生活。继而萌生了写博客的想法，希望能借此督促自己，鼓励自己。
 大学四年 其实自从高中开始，我就自认为是一个没有理想的人，我认为去追求那个虚无缥缈的大学真的毫无兴趣可言。因此高中也并不怎么努力学习，高考成绩一般，不过也属于自己的正常水平吧。
 到了大学，那应该是最失败的四年了。为什么说是失败的呢，简而言之，就是现在回想起来，竟想不起什么印象深刻的事。应该和大多数平凡人一样，我也想优秀，想成功，但是，并没有付出汗水。大一焊接大赛、孵化器招新，大二电子设计大赛，大三自信英语，大四考研，可能这其中的每一件都可能改变自己以后的命运，但我都没有成功，也许是都没有去努力。我想在焊接大赛拿个奖，我想进孵化器实验室，可我没去努力；我想参加电子设计拿个奖，可我没有努力；我想考研到复旦大学，可我没有努力……甚至在跆拳道社团都可能有更多收获，可我并没有。虽说努力不一定能成功，但是，努力一定会带来不一样的收获。更可笑的是就在此时此刻，我竟想不起其他大事来了，可见自己的大学存在感是有多低。
 原因是什么呢？我也没沉迷于游戏，没沉迷于小说，也没谈过恋爱，怎么就一事无成呢？哪怕有一件引以为豪的都可以啊？哪怕是游戏玩出了名堂也可以啊？
